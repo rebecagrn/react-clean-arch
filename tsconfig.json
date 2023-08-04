@@ -17,6 +17,9 @@
 
     "rootDir": "src",
     "baseUrl": "src",
+    "paths": {
+      "@/*": ["*"]
+    },
     "allowJs": true,
     "skipDefaultLibCheck": true,
 
